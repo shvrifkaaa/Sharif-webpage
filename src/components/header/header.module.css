@@ -1,0 +1,13 @@
+.Header{
+    width: 80%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Header_logo{
+    font-size: 25px;
+    
+}
